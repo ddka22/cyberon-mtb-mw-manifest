@@ -1,0 +1,32 @@
+<middleware>
+  <middleware>
+    <name>Cyberon DSpotter on CM4</name>
+    <id>cyberon-kwd-lib-psoc6-cm4</id>
+    <uri>https://github.com/CyberonEBU/cyberon-kwd-lib-psoc6-cm4</uri>
+    <desc>This SDK is used for keyword detection on PSoC6 devices.</desc>
+    <category>Voice</category>
+    <req_capabilities>cat1</req_capabilities>
+    <versions>
+      <version flow_version="1.0,2.0">
+        <num>1.0 release</num>
+        <commit>release-v1.0</commit>
+        <desc>1.0 release</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>Cyberon DSpotter on CM0</name>
+    <id>cyberon-kwd-lib-psoc6-cm0p</id>
+    <uri>https://github.com/CyberonEBU/cyberon-kwd-lib-psoc6-cm0p</uri>
+    <desc>This SDK is used for keyword detection on PSoC6 devices.</desc>
+    <category>Voice</category>
+    <req_capabilities>cat1</req_capabilities>
+    <versions>
+      <version flow_version="1.0,2.0">
+        <num>1.0 release</num>
+        <commit>release-v1.0</commit>
+        <desc>1.0 release</desc>
+      </version>
+    </versions>
+  </middleware>
+</middleware>
